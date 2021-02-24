@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-/* custom css */
+/* custtom css */
 .grid-container {
   display: inline-grid;
   grid-template-columns: auto;
